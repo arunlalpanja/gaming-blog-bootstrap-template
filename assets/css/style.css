@@ -1,0 +1,15 @@
+/* Custom Style */
+.brand-color {
+  color: #502f1f;
+}
+.brand-bg-color {
+  background: #502f1f !important;
+}
+.scrollToTop {
+	padding: 10px;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	display: none;
+	z-index: 99;
+}

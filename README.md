@@ -1,1 +1,1 @@
-# gaming-blog-bootstrap-template
+# Gaming Blog Bootstrap Template

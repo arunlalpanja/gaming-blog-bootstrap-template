@@ -1,3 +1,3 @@
 # Gaming Blog Bootstrap Template
 
-![](https://images.unsplash.com/photo-1696664998105-349e920f57c5)
+![](https://cdn.dribbble.com/userupload/11038091/file/original-36fd024c7b27ce45e2cef1551d60851d.jpg)
